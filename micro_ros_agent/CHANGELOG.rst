@@ -2,8 +2,8 @@
 Changelog for package micro-ros_agent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.0.7 (2023-08-30)
+------------------
 * Added spdlog as dep.
 * Contributors: Tony Baltovski
 
