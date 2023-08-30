@@ -2,8 +2,8 @@
 Changelog for package micro-ros_agent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.0.6 (2023-08-30)
+------------------
 * Fix superbuild install permission errors
 * Contributors: Błażej Sowa
 
