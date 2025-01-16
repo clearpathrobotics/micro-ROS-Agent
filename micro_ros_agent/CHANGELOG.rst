@@ -2,6 +2,12 @@
 Changelog for package micro-ros_agent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added spdlog as dep.
+* Fix superbuild install permission errors
+* Contributors: Błażej Sowa, Tony Baltovski
+
 5.0.2 (2024-05-31)
 ------------------
 * Jazzy Release
